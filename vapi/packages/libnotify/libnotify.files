@@ -1,0 +1,2 @@
+include/libnotify
+lib/libnotify.so
